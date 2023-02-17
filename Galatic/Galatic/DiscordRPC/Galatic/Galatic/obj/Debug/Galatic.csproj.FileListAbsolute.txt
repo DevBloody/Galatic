@@ -1,0 +1,14 @@
+C:\Users\pluna\OneDrive\Desktop\GalaticApp\Galatic\Galatic\bin\Debug\Galatic.exe.config
+C:\Users\pluna\OneDrive\Desktop\GalaticApp\Galatic\Galatic\bin\Debug\Galatic.exe
+C:\Users\pluna\OneDrive\Desktop\GalaticApp\Galatic\Galatic\bin\Debug\Galatic.pdb
+C:\Users\pluna\OneDrive\Desktop\GalaticApp\Galatic\Galatic\obj\Debug\Galatic.csproj.AssemblyReference.cache
+C:\Users\pluna\OneDrive\Desktop\GalaticApp\Galatic\Galatic\obj\Debug\Galatic.csproj.SuggestedBindingRedirects.cache
+C:\Users\pluna\OneDrive\Desktop\GalaticApp\Galatic\Galatic\obj\Debug\Galatic.Form1.resources
+C:\Users\pluna\OneDrive\Desktop\GalaticApp\Galatic\Galatic\obj\Debug\Galatic.Properties.Resources.resources
+C:\Users\pluna\OneDrive\Desktop\GalaticApp\Galatic\Galatic\obj\Debug\Galatic.csproj.GenerateResource.cache
+C:\Users\pluna\OneDrive\Desktop\GalaticApp\Galatic\Galatic\obj\Debug\Galatic.csproj.CoreCompileInputs.cache
+C:\Users\pluna\OneDrive\Desktop\GalaticApp\Galatic\Galatic\obj\Debug\Galatic.exe
+C:\Users\pluna\OneDrive\Desktop\GalaticApp\Galatic\Galatic\obj\Debug\Galatic.pdb
+C:\Users\pluna\OneDrive\Desktop\GalaticApp\Galatic\Galatic\obj\Debug\Galatic.Properties_UpdatesGame.GalaticEngineUpdate.resources
+C:\Users\pluna\OneDrive\Desktop\GalaticApp\Galatic\Galatic\obj\Debug\Galatic.ConfigurationSettings.ConfigSettings.resources
+C:\Users\pluna\OneDrive\Desktop\GalaticApp\Galatic\Galatic\obj\Debug\Galatic.ConfigurationSettings.Language.LanguageApplier.resources
